@@ -16,10 +16,13 @@ function checkIfUserExist(req, res, next) {
 
 function checkUserInArray(req, res, next) {
   const { id } = req.params;
+  const user = users[id]
 
-  if (!users[id]) {
+  if (!user) {
     return res.status(400).json({ error: "User dont exists in array" })
   }
+
+  req.user = user;
 
   return next()
 }
@@ -29,9 +32,7 @@ app.get('/users', (req, res) => {
 })
 
 app.get('/users/:id', checkUserInArray, (req, res) => {
-  const { id } = req.params;
-
-  return res.json(users[id])
+  return res.json(req.user)
 })
 
 app.post('/users', checkIfUserExist, (req, res) => {
