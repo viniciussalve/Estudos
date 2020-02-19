@@ -18,3 +18,7 @@ Cada pasta na raiz do respositório representa um curso
 2.  **🤔 Quero fazer esse curo também, como faço?**
 
 Você pode encontrar o link dos cursos no readme de cada um deles!
+
+
+3. **📚 Cursos**
+    3. https://github.com/viniciussalve/Estudos/tree/master/Rocketseat
