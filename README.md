@@ -9,10 +9,12 @@
 
 ## 🚀 Quick start
 
+Aqui estão absolutamente todos os cursos feitos até então. 
+
 1.  **📂 Como o projeto é organizado?**
 
 Cada pasta na raiz do respositório representa um curso
     
-2.  **👀 Quero fazer esse curo também, como faço?**
+2.  **🤔 Quero fazer esse curo também, como faço?**
 
-Aqui estão absolutamente todos os cursos feitos até então. Você pode encontrar o link dos cursos no readme de cada um deles!
+Você pode encontrar o link dos cursos no readme de cada um deles!
