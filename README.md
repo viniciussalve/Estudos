@@ -21,4 +21,4 @@ Você pode encontrar o link dos cursos no readme de cada um deles!
 
 
 3. **📚 Cursos**
-    3. https://github.com/viniciussalve/Estudos/tree/master/Rocketseat
+    1. [Rocketseat GoStack Bootcamp 2020](https://github.com/viniciussalve/Estudos/tree/master/Rocketseat)
